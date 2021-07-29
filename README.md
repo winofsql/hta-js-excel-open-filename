@@ -1,1 +1,1 @@
-# wsh-js-excel-open-filename
+# hta-js-excel-open-filename
