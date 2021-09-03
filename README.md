@@ -2,11 +2,7 @@
 Excel.Application の GetOpenFilename でファイルのパスを取得します
 ## add settings.json ( Code Runner )
 ```
-    "code-runner.showRunIconInEditorTitleMenu": false,
-    "code-runner.executorMapByFileExtension": {
-        ".hta": "C:\\Windows\\SysWOW64\\mshta.exe",
-        ".htm": "C:\\Windows\\SysWOW64\\mshta.exe"
-    }
+    "code-runner.showRunIconInEditorTitleMenu": false
 ```
 ```javascript
 var excel = null;
