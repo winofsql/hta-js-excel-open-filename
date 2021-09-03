@@ -1,5 +1,9 @@
 { 
     "code-runner.showRunIconInEditorTitleMenu": true, 
     "code-runner.runInTerminal": true, 
+    "code-runner.executorMapByFileExtension": {
+        ".hta": "C:\\Windows\\SysWOW64\\mshta.exe",
+        ".htm": "C:\\Windows\\SysWOW64\\mshta.exe"
+    },
     "terminal.integrated.fontSize": 16 
-} 
+}
